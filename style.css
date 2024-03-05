@@ -27,3 +27,21 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+ #jordans-1, #jordans-2 {
+    height: 400px;
+    width: 600px;
+    diplay: block;
+    margin: 0 auto
+ }
+
+ html {
+    background-image: url("https://tse4.mm.bing.net/th/id/OIP.j8ZyDTSWf2duNIyopn61-wHaEK?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Copperplate;
+    color: #f3b76a;
+    text-align: center;
+    padding-top: 50px;
+ }
